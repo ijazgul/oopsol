@@ -27,7 +27,12 @@ export const metadata = {
     alternates: {
         canonical: 'https://oopsol.com', // Add your canonical URL here
       },
-    <meta name="probely-verification" content="10480c66-8df9-4c7f-9b01-60f94f539c1e" />
+     meta: [
+        {
+            name: 'probely-verification',
+            content: '10480c66-8df9-4c7f-9b01-60f94f539c1e',
+        },
+    ],
 }
 
 export default function RootLayout({ children }) {
