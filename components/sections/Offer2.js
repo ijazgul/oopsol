@@ -37,12 +37,11 @@ export default function Offer2() {
                                 </div>
                                 <div className="content">
                                     <h5 className="white-clr mb-xxl-4 mb-xl-4 mb-3">
-                                        <Link href="/contact">product Design</Link>
+                                        <Link href="/contact">packaging Design</Link>
                                     </h5>
                                     <p className="pra-clr mb-xxl-5 mb-xl-4 mb-3">
-                                        Phasellus dictum massa eu ullamcorper faucibus integer vel odio in lorem facilisis
-                                        consectetur sed eu neque. Curabitur
-                                        fermentum eu dolor ac
+                                    Our innovative packaging designs enhance brand identity, attract customers,
+                                    and ensure your product stands out on the shelves.
                                     </p>
                                     <Link href="/contact" className="btn-hover white-clr d-flex gap-4">
                                         Explore More
@@ -63,13 +62,11 @@ export default function Offer2() {
                                 </div>
                                 <div className="content">
                                     <h5 className="white-clr mb-xxl-4 mb-xl-4 mb-3">
-                                        <Link href="/contact">UI/UX design</Link>
+                                        <Link href="/contact">website development</Link>
                                     </h5>
                                     <p className="pra-clr mb-xxl-5 mb-xl-4 mb-3">
-                                        Phasellus dictum massa eu ullamcorper faucibus integer vel odio in lorem facilisis
-                                        consectetur sed eu
-                                        neque. Curabitur
-                                        fermentum eu dolor ac
+                                    We create dynamic, responsive, and SEO-friendly websites tailored to your business needs,
+                                    ensuring a seamless user experience and high performance.
                                     </p>
                                     <Link href="/contact" className="btn-hover white-clr d-flex gap-4">
                                         Explore More
@@ -90,13 +87,11 @@ export default function Offer2() {
                                 </div>
                                 <div className="content">
                                     <h5 className="white-clr mb-xxl-4 mb-xl-4 mb-3">
-                                        <Link href="/contact">Branding Design</Link>
+                                        <Link href="/contact">Graphic Design</Link>
                                     </h5>
                                     <p className="pra-clr mb-xxl-5 mb-xl-4 mb-3">
-                                        Phasellus dictum massa eu ullamcorper faucibus integer vel odio in lorem facilisis
-                                        consectetur sed eu
-                                        neque. Curabitur
-                                        fermentum eu dolor ac
+                                    We craft visually compelling graphics that communicate your brand's message effectively,
+                                    from logos and marketing materials to social media creatives.
                                     </p>
                                     <Link href="/contact" className="btn-hover white-clr d-flex gap-4">
                                         Explore More
